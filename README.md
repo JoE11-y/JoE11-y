@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi. I’m Joseph Edoh Onome. I am a Blockchain Developer from Nigeria.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoE11-y&show_icons=true&locale=en&layout=compact" alt="JoE11-y" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osas2211&" alt="JoE11-y" /></p>
