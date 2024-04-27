@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Joseph Edoh Onome. I am a Blockchain Developer from Nigeria.
+I am a Blockchain Developer.
 
 
 <!--
