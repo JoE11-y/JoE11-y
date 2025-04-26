@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoE11-y&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoE11-y)](https://github.com/anuraghazra/github-readme-stats)
