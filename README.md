@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoE11-y&show_icons=true&locale=en&layout=compact" alt="JoE11-y" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoE11-y&show_icons=true&locale=en" alt="JoE11-y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoE11-y&" alt="JoE11-y" /></p>
+
+[![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoE11-y&v=2)](https://github.com/anuraghazra/github-readme-stats)
