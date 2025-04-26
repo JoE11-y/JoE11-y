@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoE11-y&" alt="JoE11-y" /></p>
 
-[![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoE11-y&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoE11_y&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoE11-y)](https://github.com/anuraghazra/github-readme-stats)
